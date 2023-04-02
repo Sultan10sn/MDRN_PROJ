@@ -7,3 +7,9 @@
 # Form component - a form to make a character, giving a user three input fields.
 
 # Navbar - allow to navigate between the feed and the form
+
+
+# steps to run the code
+
+1. Install the node dependncies by using npm install
+2. Run the code by using npm run dev
